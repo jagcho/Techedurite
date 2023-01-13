@@ -52,9 +52,3 @@ tech stack Used and idea explanation.
 6. Login page implementation is done simple as requirement ,but can use jwt  for Authentication of user.
 7. email  validation done by regex and unique email is checked by db query before creation of user in database.
 8. I have attached postman Collection to mail . so Debugger can import to postman and debug the code.
-
-
-
-
-
-
