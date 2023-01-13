@@ -1,4 +1,4 @@
-# Techedurite
+# Techedurite Assignment requirement { line 1 - line 40 }
 
 Setup Node project and fresh mysql database
 
@@ -38,3 +38,23 @@ You need to submit practical on the same day till 12:00 AM
 It’s not mandatory to finish the whole practical, your practical will be reviewed based on how much you have completed and time you have taken to finish it. 
 
 For any concerns during your practical you can call us. 
+
+
+# Implemented By Jagadish M { Detailed Description shared below}
+
+tech stack Used and idea explanation.
+
+1. Nodejs
+2. DBMS (Mongodb) i.e Nosql 
+3. Postman for Frontend 
+4. ExpressJs for Routing (Http methods) and  used middleware for repetation of code for commonvalidation of user input.
+5. dependencies are present in package.json file 
+6. Login page implementation is done simple as requirement ,but can use jwt  for Authentication of user.
+7. email  validation done by regex and unique email is checked by db query before creation of user in database.
+8. I have attached postman Collection to mail . so Debugger can import to postman and debug the code.
+
+
+
+
+
+
