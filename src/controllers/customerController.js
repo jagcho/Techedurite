@@ -3,6 +3,9 @@ const customerModel = require("../models/customerModel");
 const adminModel = require("../models/adminModel");
 
 
+
+// Register customer api
+
 const customer = async function (req, res) {
 
     try {

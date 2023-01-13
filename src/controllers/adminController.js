@@ -2,6 +2,8 @@ const adminModel = require("../models/adminModel");
 const customerModel = require("../models/customerModel");
 const { isValidEmail, isValidPassword } = require("../validations/validation")
 
+ 
+// Register Admin api
 
 const admin = async function (req, res) {
 
@@ -32,6 +34,7 @@ const admin = async function (req, res) {
 
 }
 
+// Admin login Api
 
 const adminLogin = async function (req, res) {
 
